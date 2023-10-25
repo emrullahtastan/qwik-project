@@ -6,7 +6,7 @@ export default component$(() => {
     return (
         <>
             <div class="container">
-                test
+                detail
             </div>
         </>
     );
